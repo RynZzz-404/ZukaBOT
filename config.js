@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Líder SON [Rynzzz]
+global.nameowner = 'Líder SON [Rynzzz]'
 global.numberowner = '6282252285143'
 global.instagram = 'https://instagram.com/ryann.adityaaa'
 global.github = 'https://github.com/ReffDessn/ZukaBOT'
@@ -14,7 +14,7 @@ global.gopay = '082252285143'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'SONBot-Md'
-global.gc = 'https://chat.whatsapp.com/GQPvnPCNlbXGRF8bQs66Rd'
+global.gc = 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ'
 global.web = 'https://gihub.com/ReffDessn' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
@@ -23,7 +23,7 @@ global.fotonya1 = 'https://telegra.ph/file/ffbb425abb881c95a5958.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/ffbb425abb881c95a5958.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Zuka Beta'
+global.wm = 'SON  Beta'
 global.watermark = wm
 global.wm2 = '                     「 SON-MD Beta あ⁩ 」'
 global.wm3 = '⫹⫺ SON Beta'
