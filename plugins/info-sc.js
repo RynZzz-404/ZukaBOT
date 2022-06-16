@@ -12,9 +12,9 @@ let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 
 Nih Link Sc Nya Dibawah :
-https://youtu.be/AXPzjQ5jxx8
+https://gihub.com/ReffDessn/ZukaBOT
 
-_*Jangan Lupa Di Subscribe*_`
+_*Jangan Lupa Kasih Star Sama Fork*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
