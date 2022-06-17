@@ -1,10 +1,10 @@
 //=============『 Utama 』================== //
-global.owner = ['6282252285143'] 
+global.owner = ['6282252285143', '6285600380823'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Líder SON [Rynzzz]'
+global.nameowner = 'Owner'
 global.numberowner = '6282252285143'
 global.instagram = 'https://instagram.com/ryann.adityaaa'
 global.github = 'https://github.com/ReffDessn/ZukaBOT'
