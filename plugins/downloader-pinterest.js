@@ -5,7 +5,7 @@ xfar.Pinterest(args[0]).then(async data => {
 let pincpt = `🔗Link media : ${data.url}`
 conn.sendFile(m.chat,data.url, 'pin.jpg', pincpt,m)})
 }
-handler.help = ['pinterest <keyword>']
+handler.help = ['pinterest <keyword>', 'pin <keyword>']
 handler.tags = ['internet', 'downloader']
 handler.command = /^(pinterest)$/i
 
