@@ -11,7 +11,7 @@ const ftroli = {
     surface : 1,
     message: 'Get Bot', 
     orderTitle: `Hyzer`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    thumbnail: 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
