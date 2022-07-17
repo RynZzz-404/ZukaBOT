@@ -1,43 +1,43 @@
 //=============『 Utama 』================== //
-global.owner = ['6282252285143', '6285600380823'] 
+global.owner = ['6282138919347'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Owner'
+global.nameowner = 'ʏᴀɴɴ ᴊᴇʙᴇʜ'
 global.numberowner = '6282252285143'
-global.instagram = 'https://instagram.com/ryann.adityaaa'
-global.github = 'https://github.com/ReffDessn/ZukaBOT'
+global.instagram = 'https://instagram.com/imv_yann'
+global.github = 'https://github.com/RyanStore'
 global.dana = '082350496532'
 global.pulsa = '082350496532'
 global.gopay = '082252285143'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'SONBot-Md'
+global.namebot = '✈︎ ɪᴍᴠ ʙᴏᴛ-ᴍᴅ'
 global.gc = 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ'
-global.web = 'https://gihub.com/ReffDessn' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.web = 'https://yann-md-official.blogspot.com/?m=1' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = 'Permanent = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/ffbb425abb881c95a5958.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/ffbb425abb881c95a5958.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/06bcb1b5848ccfe6db50f.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/3a9ea988efa82162a4888.png' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'SON  Beta'
+global.wm = 'Zuka Beta'
 global.watermark = wm
-global.wm2 = '                     「 SON-MD Beta あ⁩ 」'
-global.wm3 = '⫹⫺ SON Beta'
+global.wm2 = '                     「 ɪᴍᴠ -ᴍᴅ⁩ 」'
+global.wm3 = '⫹⫺ ɪᴍᴠ ᴍᴅ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/ffbb425abb881c95a5958.jpg'
+global.media = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
+global.stiker_wait = '✈︎'
 global.packname = '2022'
-global.author = '© Son BETA'
+global.author = '© ɪᴍᴠ ʙᴏᴛ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
