@@ -20,8 +20,8 @@ let charaingfo = `💬 *Name:* ${name}
     status: 1,
     surface : 1,
     message: `Character ${name}`, 
-    orderTitle: `Hyzer`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    orderTitle: `imv bot`,
+    thumbnail: 'https://telegra.ph/file/06bcb1b5848ccfe6db50f.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
